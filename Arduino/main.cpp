@@ -2,6 +2,7 @@
 #include "gpio.h"
 #include "opc_setup.h"
 #include "isr_timer.h"
+#include "data_preview.h"
 
 void setup() {
     Serial.begin(9600);
